@@ -1,0 +1,7 @@
+# -----------------------------------------------------#
+# Context file – change only these values if necessary #
+# -----------------------------------------------------#
+data_dir: "C:/Users/T/Documents/Python Training/Python Class/Projects/Movie Recommendation"
+
+movies_file: "tmdb_5000_movies.csv"
+credits_file: "tmdb_5000_credits.csv"
