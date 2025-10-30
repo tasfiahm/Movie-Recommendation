@@ -14,7 +14,7 @@ A **content-based movie recommender** (TMDB 5000) with:
 
 ## Live Demo (after you deploy)
 
-[![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://YOUR-USERNAME-movie-recommendation.streamlit.app)
+https://movie-recommendation-ngepxaulnwj9rgwrsrah7c.streamlit.app/
 
 *(Replace `YOUR-USERNAME` after deployment)*
 
@@ -33,7 +33,6 @@ pip install -r requirements.txt
 python save_data.py
 
 # 2. Run app
-streamlit run app.py
+streamlit run movie_recommendation_streamlit_app.py
 =======
-# Movie-Recommendation
->>>>>>> c09713c3c2e4da4a9748f015cb6225d5a93cb8ae
+
