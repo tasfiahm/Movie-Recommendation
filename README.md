@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Movie-Recommendation
 Python Base Movie Recommendation System
 # Movie-Recommendation
@@ -33,3 +34,6 @@ python save_data.py
 
 # 2. Run app
 streamlit run app.py
+=======
+# Movie-Recommendation
+>>>>>>> c09713c3c2e4da4a9748f015cb6225d5a93cb8ae
