@@ -5,3 +5,4 @@ data_dir: "C:/Users/T/Documents/Python Training/Python Class/Projects/Movie Reco
 
 movies_file: "tmdb_5000_movies.csv"
 credits_file: "tmdb_5000_credits.csv"
+developer_name: "Tasfique Ahmed"
